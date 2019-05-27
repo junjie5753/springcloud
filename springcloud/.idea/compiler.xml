@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloud_provider_8003" />
+        <module name="springcloud_consumer_dept-feign" />
+        <module name="springcloud_config_3344" />
+        <module name="springcloud_consumer_80" />
+        <module name="springcolud_provider_8001" />
+        <module name="springcolud_povider_8002" />
+        <module name="springcloud_eureka_7003" />
+        <module name="springcloud_eureka_7002" />
+        <module name="springcloud_eureka_7001" />
+        <module name="springcloud_api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springcloud_api" target="1.8" />
+      <module name="springcloud_config_3344" target="1.8" />
+      <module name="springcloud_consumer_80" target="1.8" />
+      <module name="springcloud_consumer_80 (1)" target="1.8" />
+      <module name="springcloud_consumer_dept-feign" target="1.8" />
+      <module name="springcloud_eureka_7001" target="1.8" />
+      <module name="springcloud_eureka_7002" target="1.8" />
+      <module name="springcloud_eureka_7003" target="1.8" />
+      <module name="springcloud_junjie" target="1.8" />
+      <module name="springcloud_provider_8003" target="1.8" />
+      <module name="springcolud_povider_8002" target="1.8" />
+      <module name="springcolud_provider_8001" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
